@@ -24,5 +24,15 @@ More information can be seen in the group report.
 
 *- Long cable needed in this project as we are unable to get the bluetooth module to work. Hence a long wire connecting the arduino to the computer is needed.
 
+## Directory
+*NOTE: for some reason I wasn't able to get OpenPose working outside of their tutorial directory. Hence all files are stored inside that directory
+```bash
+openpose-master\build\examples\tutorial_api_python
+├── Dev_Json Folder
+├── Pose Database Folder
+├── Realsense_colour_images Folder
+└── Py + UI files
+```
+
 ## Others
 Added report and reading materials
