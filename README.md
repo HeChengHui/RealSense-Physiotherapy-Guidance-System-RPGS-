@@ -41,7 +41,8 @@ To store the json files of keypoints of the start and end poses.
 To store the saved image from realsense to be processed, before getting processed by openpose (delete the text file inside first)
 
 ## Others
-Added report and reading materials
+Added report and reading materials.
+Look into aspect ratio if the the skeleton doesn't line up with the person.
 
 ## Credits
 Special Thanks to WANDERSON M.PIMENTA for his user inteface.  
