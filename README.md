@@ -42,3 +42,7 @@ To store the saved image from realsense to be processed, before getting processe
 
 ## Others
 Added report and reading materials
+
+## Credits
+Special Thanks to WANDERSON M.PIMENTA for his user inteface.
+https://www.youtube.com/channel/UCy1fv5dh3wQEem1nFAUBJzw
