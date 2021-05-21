@@ -34,11 +34,11 @@ openpose-master\build\examples\tutorial_api_python
 └── Py + UI files
 ```
 1) Dev_Json  
-To store the changed angle and allowances values. 
+To store the changed angle and repetition values. 
 3) Pose Database  
 To store the json files of keypoints of the start and end poses. 
 3) Realsense_colour_images  
-To store the saved image from realsense to be processed, before getting processed by openpose 
+To store the saved image from realsense to be processed, before getting processed by openpose (delete the text file inside first)
 
 ## Others
 Added report and reading materials
