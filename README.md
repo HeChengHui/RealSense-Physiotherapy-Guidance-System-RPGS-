@@ -23,3 +23,6 @@ More information can be seen in the group report.
 5) PyQt5
 
 *- Long cable needed in this project as we are unable to get the bluetooth module to work. Hence a long wire connecting the arduino to the computer is needed.
+
+## Others
+Added report and reading materials
